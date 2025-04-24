@@ -1,3 +1,7 @@
+# This is a header
+## This is a subheader
+### This is a sub subheader
+###### This is a sub sub sub sub sub sub header
 <header>
 
 <!--
@@ -79,3 +83,5 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 &copy; 2023 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
+
+This edit is comparing the markdown header syntax for H1, H2 and H6
