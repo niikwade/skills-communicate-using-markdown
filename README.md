@@ -1,5 +1,5 @@
 # This is a header
-
+## This is another header
 
 <header>
 
@@ -68,6 +68,9 @@ _Welcome to "Communicate using Markdown"! :wave:_
 1. Click **Commit changes**.
 1. Wait about 20 seconds then refresh this page (the one you're following instructions from). [GitHub Actions](https://docs.github.com/en/actions) will automatically update to the next step.
 
+
+**This edit uses the markdown header syntax for H1.**
+
 <footer>
 
 <!--
@@ -83,4 +86,3 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 
 </footer>
 
-**This edit uses the markdown header syntax for H1.**
